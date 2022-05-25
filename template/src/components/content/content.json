@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_content_contents",
+  "info": {
+    "displayName": "Content",
+    "icon": "align-justify"
+  },
+  "options": {},
+  "attributes": {
+    "Content": {
+      "type": "richtext"
+    },
+    "Text": {
+      "allowedTypes": ["images", "files", "videos", "audios"],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

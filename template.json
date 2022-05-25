@@ -1,0 +1,11 @@
+{
+	"scripts": {
+    "gcp-build": "strapi build"
+	},
+	"dependencies": {    "@strapi/plugin-seo": "^1.7.2",
+    "pg": "^8.7.3",
+    "strapi-plugin-menus": "^0.3.1",
+    "strapi-plugin-populate-deep": "^0.1.2",
+    "strapi-plugin-react-editorjs": "^2.0.1",
+    "strapi-plugin-slugify": "^2.2.2"}
+}
